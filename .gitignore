@@ -1,0 +1,9 @@
+ipch
+/Bin
+.DS_Store
+Thumbs.db
+_notes
+*.sdf
+*.filters
+*.user
+.suo
