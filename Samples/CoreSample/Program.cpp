@@ -11,7 +11,8 @@ int main(int argc, _TCHAR* argv[])  {
 
 	cout<<CString::GetLength(TEXT("A"));
 
-	
+	//  hafi you shm wen me ma
+	 
 	// zhe li shi ceshi   
 
 	// CString jiu shi yao wan cheng de diyigelei
